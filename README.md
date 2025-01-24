@@ -1,7 +1,7 @@
 # Railroad Accidents Visualization
 
 ## How to Run:
-1. **Download and unzip the project** – This will extract the project into a folder in your chosen path.
+1. **Download and unzip the project** – This will extract the project into a folder in your chosen path. Also make sure to unzip filtered_plus_severity.zip into the folder. Original data can be found [here](https://data.transportation.gov/Railroads/Railroad-Equipment-Accident-Incident-Source-Data-F/aqxq-n5hy/about_data)
 2. **Navigate to the folder** – Press `Shift + Right Click` and select **"Open PowerShell window here"**.
 3. **Install dependencies** – Copy and paste the following command into PowerShell and press Enter:
    ```sh
