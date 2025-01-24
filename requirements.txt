@@ -1,0 +1,9 @@
+dash
+dash_leaflet==0.0.6 
+pandas
+matplotlib
+numpy
+datetime
+plotly
+shapely
+geopandas
